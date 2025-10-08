@@ -6,11 +6,11 @@ Full-stack Developer / Software Enthusiast
 
 ## 🛠 Skills
 
-**Languages:** Java, Python, C#, PHP, JavaScript, HTML, CSS
-**Frameworks / Libraries:** Laravel, Alpine.js, Tailwind CSS
-**Databases:** MySQL, PostgreSQL
-**Tools / IDEs:** VS Code, Visual Studio, PyCharm, XAMPP
-**Other:** Microsoft Office
+*Languages:** Java, Python, C#, PHP, JavaScript, HTML, CSS
+*Frameworks / Libraries:** Laravel, Alpine.js, Tailwind CSS
+*Databases:** MySQL, PostgreSQL
+*Tools / IDEs:** VS Code, Visual Studio, PyCharm, XAMPP
+*Other:** Microsoft Office
 
 ---
 

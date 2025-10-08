@@ -1,43 +1,43 @@
-# Привет, меня зовут Antonii 👋
+# Hello, my name is Antonii 👋
 
-Full‑stack developer / Software enthusiast
-
----
-
-## 🛠 Навыки
-
-Языки: Java, Python, C#, PHP, JavaScript, HTML, CSS  
-Фреймворки / Библиотеки: Laravel, Alpine.js, Tailwind CSS  
-Базы данных: MySQL, PostgreSQL  
-Инструменты / Среды: VS Code, Visual Studio, PyCharm, XAMPP  
-Прочее: Microsoft Office  
+Full-stack Developer / Software Enthusiast
 
 ---
 
-## 🚀 Проекты
+## 🛠 Skills
 
-| Проект | Описание |
-|---|---|
-| [Проект A](ссылка) | Что делает, технологии |
-| [Проект B](ссылка) | Что делает, технологии |
-
----
-
-## 📜 Сертификаты и курсы
-
-- Java Start + Tools  
-- C# Start  
-- Python Start  
+**Languages:** Java, Python, C#, PHP, JavaScript, HTML, CSS
+**Frameworks / Libraries:** Laravel, Alpine.js, Tailwind CSS
+**Databases:** MySQL, PostgreSQL
+**Tools / IDEs:** VS Code, Visual Studio, PyCharm, XAMPP
+**Other:** Microsoft Office
 
 ---
 
-## 🔗 Ссылки
+## 🚀 Projects
 
-- 🌐 Сайт: https://antonii-brezhin.com  
-- 🧑‍💻 GitHub: https://github.com/Lostergrand  
+| Project           | Description                     |
+| ----------------- | ------------------------------- |
+| [Project A](link) | What it does, technologies used |
+| [Project B](link) | What it does, technologies used |
 
 ---
 
-## 📈 Статистика GitHub
+## 📜 Certificates & Courses
 
-![Antonii’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostergrand&show_icons=true&theme=tokyonight)
+* Java Start + Tools
+* C# Start
+* Python Start
+
+---
+
+## 🔗 Links
+
+* 🌐 Website: [https://antonii-brezhin.com](https://antonii-brezhin.com)
+* 🧑‍💻 GitHub: [https://github.com/Lostergrand](https://github.com/Lostergrand)
+
+---
+
+## 📈 GitHub Stats
+
+![Antonii’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostergrand\&show_icons=true\&theme=tokyonight)
